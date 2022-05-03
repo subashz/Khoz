@@ -38,9 +38,8 @@ Please get **Android Studio Bumblebee latest Canary** [from here](https://develo
 - Some of the features that will be available in coming weeks
   - Simple List
 
-## Dependencies
-- Official Google Documentation
-  - [SSHJ](https://github.com/hierynomus/sshj)
+## References
+  - [Indexer](https://github.com/KoalaBear84/OpenDirectoryDownloader)
   - [Jetpack compose](https://developer.android.com/jetpack/compose)
 
 

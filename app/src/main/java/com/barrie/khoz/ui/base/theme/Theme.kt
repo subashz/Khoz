@@ -1,4 +1,4 @@
-package com.barrie.khoz.ui.theme
+package com.barrie.khoz.ui.base.theme
 
 import androidx.compose.foundation.isSystemInDarkTheme
 import androidx.compose.material.MaterialTheme

@@ -1,4 +1,4 @@
-package com.barrie.khoz.ui.theme
+package com.barrie.khoz.ui.base.theme
 
 import androidx.compose.material.Typography
 import androidx.compose.ui.text.TextStyle
